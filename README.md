@@ -99,3 +99,10 @@ dotnet run --project "Brick Breaker/Brick Breaker.csproj"
 - C#
 - MonoGame `3.8.4.1`
 - DesktopGL platform
+
+## License
+
+Copyright © 2026 Idan Bachar. All rights reserved.
+
+This project and its code are proprietary. No part of this software may be copied,
+distributed, or modified without the express written permission of the owner.
